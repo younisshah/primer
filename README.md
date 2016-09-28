@@ -1,5 +1,5 @@
 ## primer
-##### A Golang implementation of various Prime/Integer factorization algorithms
+##### A Golang implementation of various prime/integer factorization algorithms.
 
 ### Algorithms implemented
   
