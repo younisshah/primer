@@ -1,7 +1,7 @@
 ## primer
 ##### A Golang implementation of various Prime/Integer factorization algorithms
 
-### Algorithms implemented :construction_worker:
+### Algorithms implemented
   
  - [x] Pollard's rho algorithm 
  - [ ] Sieve of Eratosthenes
